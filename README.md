@@ -48,4 +48,4 @@ and the
 
 ## Contact
 
-Developer: SHIRA (k.shira07@gmail.com)
+Developer: SHIRA (shira3n.neko3n@gmail.com)
